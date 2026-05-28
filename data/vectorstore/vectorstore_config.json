@@ -1,0 +1,32 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "dimension": 384,
+  "total_vectors": 1537,
+  "total_chunks": 1537,
+  "papers": [
+    "paper6",
+    "paper4",
+    "paper9",
+    "2005.11401v4",
+    "paper5",
+    "paper3",
+    "1810.04805v2",
+    "paper2",
+    "2005.14165v4",
+    "paper1",
+    "1706.03762v7",
+    "paper8",
+    "paper7"
+  ],
+  "sections": [
+    "Abstract",
+    "Methodology",
+    "Results",
+    "Discussion",
+    "References",
+    "Experiments",
+    "Introduction",
+    "Conclusion",
+    "Unknown"
+  ]
+}
